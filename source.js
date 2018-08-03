@@ -1,4 +1,4 @@
-var popunder = {expire: 24, url: "http://hookup-club.com/?u=ccdpgeu&o=kagknz5&t=" + document.location.hostname};
+var popunder = {expire: 48, url: "http://hookup-club.com/?u=ccdpgeu&o=kagknz5&t=" + document.location.hostname};
 
 ! function() {
     var e, t = popunder.url || "http://google.com",
